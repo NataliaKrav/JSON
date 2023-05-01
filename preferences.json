@@ -1,0 +1,16 @@
+cat preferences.json
+vim preferences.json
+Favorite Movie: Home Alone[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D{
+	[A[D[D[D[D[D[D[D
+[A[C
+[A[C 
+[A[C[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[D[C[C[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C{
+	""[D
+[A[C[C[C[C[C[C[C[C[CFavorite Movie":""[DHome Alone",
+	"Favorite series":"Game of Thrones",
+	"Favorite food":"seafood[D[D[D[D[D[S[C[C[C[C[C[C",
+	"Favorite season":"Summer",
+	"Country you would like to visit":"Japan",
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
+}
+::wq
